@@ -17,3 +17,5 @@ https://docs.qq.com/doc/DWVlTaHlPWkpVTnFB
 若需帮领，请直接新增行，每个uid一行，请勿删除原有uid。
 若发现有人恶意修改文档，将关闭文档修改权限
 ```
+## uid.txt文件
+也可以直接使用uid.txt文件，这样更安全，但是main.go里面的函数调用就需要修改了
